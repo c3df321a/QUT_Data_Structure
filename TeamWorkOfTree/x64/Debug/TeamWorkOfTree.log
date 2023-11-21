@@ -1,0 +1,5 @@
+﻿  TeamWorkOfTree.cpp
+C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\TeamWorkOfTree\TeamWorkOfTree.cpp(28,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  tree.cpp
+  正在生成代码...
+  TeamWorkOfTree.vcxproj -> C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\TeamWorkOfTree\x64\Debug\TeamWorkOfTree.exe

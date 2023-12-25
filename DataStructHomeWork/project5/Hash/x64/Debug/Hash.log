@@ -1,0 +1,3 @@
+﻿  Hash.cpp
+C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\project\project5\Hash\Hash.cpp(51,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Hash.vcxproj -> C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\project\project5\Hash\x64\Debug\Hash.exe

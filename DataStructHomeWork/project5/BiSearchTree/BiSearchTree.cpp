@@ -160,6 +160,7 @@ BiSearchTree* BiSearchTree::GetMax(BiSearchTree* T)
 }
 
 
+
 void BiSearchTree::DELETE(BiSearchTree* T, BiSearchTree* NODE)
 {
     BiSearchTree* Father = T;
@@ -175,11 +176,19 @@ void BiSearchTree::DELETE(BiSearchTree* T, BiSearchTree* NODE)
             Father = T;
             T = T->right;
         }
-        if (T->m_Data==NODE->m_Data)
+        if (T->m_Data == NODE->m_Data)
             break;
     }
-    if (!T->left)    Father->left = T->right;
-    else if (!T->right) Father->right = T->left;
+    if (!T->left)
+    {
+        if (Father->left == T)  Father->left = T->right;
+        else Father->right = T->right;
+    }
+    else if (!T->right)
+    {
+        if (Father->left == T)  Father->left = T->left;
+        else Father->right = T->left;
+    }
     else
     {
 

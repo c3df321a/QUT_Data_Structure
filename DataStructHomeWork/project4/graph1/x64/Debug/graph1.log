@@ -1,3 +1,5 @@
 ﻿  graph1.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: “link.exe”已退出，代码为 1168。
-LINK : fatal error LNK1168: 无法打开 C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\project\project4\graph1\x64\Debug\graph1.exe 进行写入
+  PriorityQueue.cpp
+  Queue.cpp
+  正在生成代码...
+  graph1.vcxproj -> C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\DataStructHomeWork\DataStructHomeWork\project4\graph1\x64\Debug\graph1.exe

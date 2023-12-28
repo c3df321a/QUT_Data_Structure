@@ -1,2 +1,3 @@
 C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\project\project3\graph1\x64\Debug\graph1.exe
 C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\project\project4\graph1\x64\Debug\graph1.exe
+C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\DataStructHomeWork\DataStructHomeWork\project4\graph1\x64\Debug\graph1.exe

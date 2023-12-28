@@ -1,1 +1,2 @@
 C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\project\project5\Hash\x64\Debug\Hash.exe
+C:\Users\BaSO4\Desktop\study\2023-2024\DataStructure\DataStructHomeWork\DataStructHomeWork\project5\Hash\x64\Debug\Hash.exe
